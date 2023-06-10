@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\obj\Debug\net6.0\ToDo.Infrastruture.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\obj\Debug\net6.0\ToDo.Infrastruture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\obj\Debug\net6.0\ToDo.Infrastruture.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\obj\Debug\net6.0\ToDo.Infrastruture.AssemblyInfo.cs
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\obj\Debug\net6.0\ToDo.Infrastruture.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\bin\Debug\net6.0\ToDo.Infrastruture.deps.json
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\bin\Debug\net6.0\ToDo.Infrastruture.runtimeconfig.json
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\bin\Debug\net6.0\ToDo.Infrastruture.dll
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\bin\Debug\net6.0\ToDo.Infrastruture.pdb
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\bin\Debug\net6.0\ToDo.Domain.dll
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\bin\Debug\net6.0\ToDo.Domain.pdb
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\obj\Debug\net6.0\ToDo.Infrastruture.csproj.CopyComplete
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\obj\Debug\net6.0\ToDo.Infrastruture.dll
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\obj\Debug\net6.0\refint\ToDo.Infrastruture.dll
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\obj\Debug\net6.0\ToDo.Infrastruture.pdb
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\obj\Debug\net6.0\ToDo.Infrastruture.genruntimeconfig.cache
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Infrastruture\obj\Debug\net6.0\ref\ToDo.Infrastruture.dll

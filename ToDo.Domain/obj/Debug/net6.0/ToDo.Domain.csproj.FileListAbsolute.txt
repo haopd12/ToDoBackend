@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Domain\bin\Debug\net6.0\ToDo.Domain.deps.json
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Domain\bin\Debug\net6.0\ToDo.Domain.runtimeconfig.json
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Domain\bin\Debug\net6.0\ToDo.Domain.dll
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Domain\bin\Debug\net6.0\ToDo.Domain.pdb
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Domain\obj\Debug\net6.0\ToDo.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Domain\obj\Debug\net6.0\ToDo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Domain\obj\Debug\net6.0\ToDo.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Domain\obj\Debug\net6.0\ToDo.Domain.AssemblyInfo.cs
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Domain\obj\Debug\net6.0\ToDo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Domain\obj\Debug\net6.0\ToDo.Domain.dll
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Domain\obj\Debug\net6.0\refint\ToDo.Domain.dll
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Domain\obj\Debug\net6.0\ToDo.Domain.pdb
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Domain\obj\Debug\net6.0\ToDo.Domain.genruntimeconfig.cache
+C:\Users\PC\source\repos\IMax.ToDo\ToDo.Domain\obj\Debug\net6.0\ref\ToDo.Domain.dll
